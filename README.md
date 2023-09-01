@@ -1,2 +1,2 @@
 # preview
-sinyo-wedding.github.io
+https://sinyo-wedding.github.io
